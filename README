@@ -1,0 +1,3 @@
+# RaspControl-Web #
+
+With RaspControl-Web you can switch RC-sockets. It uses RCSwitch lib to send commands with 433MHz sender.
